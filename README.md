@@ -65,7 +65,7 @@ It includes:
 
 ### Excel Dashboard
 
-![Excel Dashboard](images/excel_dashboard.png)
+![Excel Dashboard](images/Excel_Dashboard.png)
 
 ---
 
