@@ -1,5 +1,8 @@
 # Black-Scholes Option Lab
 
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1B7Me-vuzCuvLo4yHJ1Y6IxB-LODkgQoj?usp=sharing)
+
+
 Excel and Python implementation of the Black-Scholes model for European option pricing, Greeks calculation, sensitivity analysis and payoff visualisation.
 
 ## Project Overview
